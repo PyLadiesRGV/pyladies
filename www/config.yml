@@ -945,6 +945,17 @@ chapters:
   pro_network: Python Software Foundation Meetup Pro Network
   twitter: PyLadiesBCN
   website: https://pybcn.org/pyladies-bcn/
+- email: riograndevalley@pyladies.com
+  external_website: true
+  image: pyladies_rgv.png
+  location: 
+    latitude: 26.212
+    longitude: 98.3113
+  meetup: RGV-Pyladies-Meetup
+  meetup_id: 4634379248
+  name: "Rio Grande Valley, TX"
+  twitter: pyladiesrgv
+  website: "http://www.rgv.pyladies.com"
 date_format: '%B %d, %Y'
 domain: pyladies.com
 feed: true
